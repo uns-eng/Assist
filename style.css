@@ -1,0 +1,12 @@
+html{
+    font-family: Monospace;
+    background-color: #141414;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --small-txt-: 1vh;
+    --tall-txt-: 30vh;
+}
